@@ -298,7 +298,7 @@ enum{ CLOCK_NO,
 }ClockMode;
 
 //ANIME
-#define MAX_PIXMAP   64
+#define MAX_PIXMAP   256
 #define MAX_ANIME_FRAME   64
 #define MAX_ANIME_PATTERN 10
 
