@@ -299,8 +299,8 @@ enum{ CLOCK_NO,
 
 //ANIME
 #define MAX_PIXMAP   256
-#define MAX_ANIME_FRAME   64
-#define MAX_ANIME_PATTERN 10
+#define MAX_ANIME_FRAME   256
+#define MAX_ANIME_PATTERN 64
 
 
 //MENU
