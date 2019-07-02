@@ -1,0 +1,6 @@
+*.o
+Makefile
+macopix
+*.rc
+version.h
+.deps
